@@ -5,7 +5,7 @@ import { Provider } from "mobx-react";
 
 import LoginStore from "common/stores/LoginStore";
 
-import LoginPage from "pages/login";
+import LoginPage from "@pages/login/login";
 import Home from "pages/home";
 import Activities from "pages/activities";
 
